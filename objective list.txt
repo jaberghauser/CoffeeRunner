@@ -1,0 +1,7 @@
+List of things we need by spring semester:
+Working prototype which includes the following:
+-3d player movement along a 2d plane (which is left to right)
+-infinite sidescrolling	&
+- procedurally generating terrain
+- Start Menu
+- in game hud (at least a score count)
