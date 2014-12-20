@@ -1,0 +1,14 @@
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\obj\Debug\Assembly-CSharp.dll
+C:\Users\Jacob\Documents\GitHub\CoffeeRunner\CoffeeRunner\obj\Debug\Assembly-CSharp.pdb
