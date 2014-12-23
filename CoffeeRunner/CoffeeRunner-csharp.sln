@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{2F767E86-E6C0-A440-6D99-B11286517D96}") = "CoffeeRunner", "Assembly-CSharp-firstpass-vs.csproj", "{0128F77C-3668-ED1C-B8E7-AF50C5B86928}"
 EndProject
+Project("{2F767E86-E6C0-A440-6D99-B11286517D96}") = "CoffeeRunner", "Assembly-CSharp-vs.csproj", "{60FBD32B-F4A8-A8D8-7491-D22E8C286D5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,11 +15,18 @@ Global
 		{0128F77C-3668-ED1C-B8E7-AF50C5B86928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0128F77C-3668-ED1C-B8E7-AF50C5B86928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0128F77C-3668-ED1C-B8E7-AF50C5B86928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FBD32B-F4A8-A8D8-7491-D22E8C286D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FBD32B-F4A8-A8D8-7491-D22E8C286D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FBD32B-F4A8-A8D8-7491-D22E8C286D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FBD32B-F4A8-A8D8-7491-D22E8C286D5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-				GlobalSection(MonoDevelopProperties) = preSolution
+							GlobalSection(MonoDevelopProperties) = preSolution
+=======
+					GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 06026f94c4af2952355054ce3064924678fdac47
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
